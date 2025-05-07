@@ -8,7 +8,7 @@ public class Q1 {
     public static void Ques1()
     {
         //Find the maximum and minimum element in an array
-        int arr[] = {2,4,5,6,7,1};
+        int arr[] = {2,4,5,6,7,1,10};
         int max = arr[0];
         int min = arr[0];
 
