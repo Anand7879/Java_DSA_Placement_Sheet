@@ -34,6 +34,6 @@ public class Q3 {
             count++;
         }
         System.out.println(k+" Min = "+kth_min);
-
+        sc.close();
 }
 }
