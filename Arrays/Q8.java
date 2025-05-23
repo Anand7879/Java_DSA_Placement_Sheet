@@ -32,6 +32,7 @@ public class Q8 {
                 start = tempStart;
                 end = i;
             }
+            System.out.println(max_sum);
         }
         System.out.println("Maximum SubArray : ");
 

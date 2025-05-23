@@ -10,7 +10,7 @@ public class Q3 {
     public static void Ques3()
     {
         // Find the 'Kth' max and min element of an array
-        int arr[] = {2,4,5,6,7,23,25,20,1};
+        int arr[] = {2,4,5,6,7,25,25,20,1};
         Arrays.sort(arr);
         int n = arr.length;
         int kth_max = arr[n-1];
