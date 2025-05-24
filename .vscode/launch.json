@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Q38",
+            "request": "launch",
+            "mainClass": "Q38",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
         {
             "type": "java",
             "name": "Current File",
