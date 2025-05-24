@@ -1,0 +1,169 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Arrays.Q1",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "Arrays.Q10",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q11",
+            "request": "launch",
+            "mainClass": "Arrays.Q11",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q12",
+            "request": "launch",
+            "mainClass": "Arrays.Q12",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q13",
+            "request": "launch",
+            "mainClass": "Arrays.Q13",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q14",
+            "request": "launch",
+            "mainClass": "Arrays.Q14",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q15",
+            "request": "launch",
+            "mainClass": "Arrays.Q15",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q16",
+            "request": "launch",
+            "mainClass": "Arrays.Q16",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q17",
+            "request": "launch",
+            "mainClass": "Arrays.Q17",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q18",
+            "request": "launch",
+            "mainClass": "Arrays.Q18",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q19",
+            "request": "launch",
+            "mainClass": "Arrays.Q19",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Arrays.Q2",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q20",
+            "request": "launch",
+            "mainClass": "Arrays.Q20",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Arrays.Q3",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Arrays.Q4",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Arrays.Q5",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Arrays.Q6",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Arrays.Q7",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q8",
+            "request": "launch",
+            "mainClass": "Arrays.Q8",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q9",
+            "request": "launch",
+            "mainClass": "Arrays.Q9",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q36",
+            "request": "launch",
+            "mainClass": "Q36",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
+            "name": "Q37",
+            "request": "launch",
+            "mainClass": "Q37",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        }
+    ]
+}
