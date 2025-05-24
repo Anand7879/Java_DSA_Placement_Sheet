@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q39",
+            "request": "launch",
+            "mainClass": "Q39",
+            "projectName": "Java_DSA_Placement_Sheet_360be57b"
+        },
+        {
+            "type": "java",
             "name": "Q38",
             "request": "launch",
             "mainClass": "Q38",

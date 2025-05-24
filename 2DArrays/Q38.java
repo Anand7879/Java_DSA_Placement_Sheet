@@ -7,15 +7,15 @@ public class Q38 {
                         {10, 13, 14,17}};
       
                        
-        Search(mat);
+        int traget = 17;
+        Search(mat,traget);
         
     }
     // Search in a row-wise and column-wise sorted matrix
-    static void Search(int[][] mat){
+    static void Search(int[][] mat,int traget){
 
            int m = mat.length;
            int n = mat[0].length;
-           int traget = 9;
            int i = 0;
            int j = n-1;
           
